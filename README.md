@@ -5,7 +5,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 ## Questions Attempted: ``
 |  ID Number  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
-|10073|[Most Profitable Countries](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1)|Medium|[Link]()
+|10073|[Most Profitable Countries](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/10354.sql)
 |10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10087.sql)
 |10176|[Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?python=)|Easy|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10176.sql)
 |10283|[Find the top-ranked songs for the past 30 years.](https://platform.stratascratch.com/coding/10283-find-the-top-ranked-songs-for-the-past-30-years?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10283.sql)
