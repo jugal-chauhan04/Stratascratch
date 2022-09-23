@@ -1,3 +1,4 @@
+/*
 Find the titles of workers that earn the highest salary.
 Output the highest-paid title or multiple titles that share the highest salary.
 
@@ -13,7 +14,7 @@ Table 2: title
 worker_ref_id: int
 worker_title: varchar
 affected_from: datetime
-
+*/
 
 SELECT
       t.worker_title
@@ -27,10 +28,3 @@ WHERE
       w.salary IN (select max(salary) from worker)
 ORDER BY
       t.worker_title
-      
-OUTPUT
-
-worker_title
-
-Asst. Manager
-Manager
