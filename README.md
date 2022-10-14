@@ -13,7 +13,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |9991|[Top Ranked Songs](https://platform.stratascratch.com/coding/9991-top-ranked-songs?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Ranked%20Songs.sql)
 |9942|[Largest Olympics](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Largest%20Olympics.sql)
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Cost%20Orders.sql)
-|9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Cost%20Orders.sql)
+|9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Salary%20In%20Department.sql)
 
 
 
