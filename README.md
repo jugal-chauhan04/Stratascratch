@@ -14,6 +14,9 @@ This repository tackles all the free available questions on [StrataScratch](http
 |9942|[Largest Olympics](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Largest%20Olympics.sql)
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Cost%20Orders.sql)
 |9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Salary%20In%20Department.sql)
+|9728|[Number of violations](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Salary%20In%20Department.sql)
+
+
 
 
 
