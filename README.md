@@ -16,6 +16,8 @@ This repository tackles all the free available questions on [StrataScratch](http
 |9|9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Salary%20In%20Department.sql)
 |10|9728|[Number of violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Number%20of%20violations.sql)
 |11|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Classify%20Business%20Type.sql)
+|12|9680|[Most Profitable Companies](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Classify%20Business%20Type.sql)
+
 
 
 
