@@ -18,6 +18,11 @@ This repository tackles all the free available questions on [StrataScratch](http
 |11|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Classify%20Business%20Type.sql)
 |12|9650|[Find the top 10 ranked songs in 2010](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20top%2010%20ranked%20songs%20in%202010.sql)
 |13|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Finding%20User%20Purchases.sql)
+|14|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Finding%20User%20Purchases.sql)
+
+
+
+
 
 
 
