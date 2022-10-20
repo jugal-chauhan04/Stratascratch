@@ -19,7 +19,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |12|9650|[Find the top 10 ranked songs in 2010](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20top%2010%20ranked%20songs%20in%202010.sql)
 |13|10322|[Finding User Purchases](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Finding%20User%20Purchases.sql)
 |14|10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Cool%20Votes.sql)
-|15|9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Cool%20Votes.sql)
+|15|9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Revenue%20In%20March.sql)
 
 
 
