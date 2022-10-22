@@ -22,6 +22,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |14|10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Cool%20Votes.sql)
 |15|9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Revenue%20In%20March.sql)
 |16|9781|[Find the rate of processed tickets for each type](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20rate%20of%20processed%20tickets%20for%20each%20type.sql)
+|17|9905|[Highest Target Under Manager](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20rate%20of%20processed%20tickets%20for%20each%20type.sql)
 
 
 
