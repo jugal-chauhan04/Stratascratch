@@ -2,7 +2,7 @@
 
 This repository tackles all the free available questions on [StrataScratch](https://www.stratascratch.com) ranging from easy, medium, and hard in Postgresql environment.
 
-## Questions Attempted: `17`
+## Questions Attempted: `18`
 ### List of Medium-Difficulty Questions
 | Sr No. |  ID Number  | Title | Difficulty | Solution |
 |:---:|:-----:|:-----:|:----------:|:--------:|
