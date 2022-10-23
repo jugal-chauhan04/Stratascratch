@@ -23,6 +23,8 @@ This repository tackles all the free available questions on [StrataScratch](http
 |15|9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Revenue%20In%20March.sql)
 |16|9781|[Find the rate of processed tickets for each type](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20rate%20of%20processed%20tickets%20for%20each%20type.sql)
 |17|9905|[Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Target%20Under%20Manager.sql)
+|18|9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Highest%20Target%20Under%20Manager.sql)
+
 
 
 
