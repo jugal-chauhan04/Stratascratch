@@ -2,7 +2,7 @@
 
 This repository tackles all the free available questions on [StrataScratch](https://www.stratascratch.com) ranging from easy, medium, and hard in Postgresql environment.
 
-## Questions Attempted: `20`
+## Questions Attempted: `21`
 ### List of Medium-Difficulty Questions
 | Sr No. |  ID Number  | Title | Difficulty | Solution |
 |:---:|:-----:|:-----:|:----------:|:--------:|
@@ -26,7 +26,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |18|9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Employee%20and%20Manager%20Salaries.sql)
 |19|10077|[Income By Title and Gender](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Income%20By%20Title%20and%20Gender.sql)
 |20|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Reviews%20of%20Categories.sql)
-|21|10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Reviews%20of%20Categories.sql)
+|21|10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Businesses%20With%20Most%20Reviews.sql)
 
 
 
