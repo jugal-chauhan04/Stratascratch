@@ -29,6 +29,13 @@ This repository tackles all the free available questions on [StrataScratch](http
 |21|10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Businesses%20With%20Most%20Reviews.sql)
 
 
+### List of Easy-Difficulty Questions
+| Sr No. |  ID Number  | Title | Difficulty | Solution |
+|:---:|:-----:|:-----:|:----------:|:--------:|
+|1|10073|[Most Profitable Countries](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/10354.sql)
+
+
+
 
 
 
