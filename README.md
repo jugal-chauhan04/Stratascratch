@@ -32,6 +32,8 @@ This repository tackles all the free available questions on [StrataScratch](http
 |19|10077|[Income By Title and Gender](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Income%20By%20Title%20and%20Gender.sql)
 |20|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Reviews%20of%20Categories.sql)
 |21|10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Businesses%20With%20Most%20Reviews.sql)
+|22|10078|[Find matching hosts and guests in a way that they are both of the same gender and nationality](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Businesses%20With%20Most%20Reviews.sql)
+
 
 
 
