@@ -2,12 +2,12 @@
 
 This repository tackles all the free available questions on [StrataScratch](https://www.stratascratch.com) ranging from easy, medium, and hard in Postgresql environment.
 
-## Questions Attempted: `23`
+## Questions Attempted: `24`
 ### List of Easy-Difficulty Questions
 | Sr No. |  ID Number  | Title | Difficulty | Solution |
 |:---:|:-----:|:-----:|:----------:|:--------:|
 |1|9622|[Number Of Bathrooms And Bedrooms](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Number%20Of%20Bathrooms%20And%20Bedrooms.sql)
-|2|9653|[Count the number of user events performed by MacBookPro users](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Number%20Of%20Bathrooms%20And%20Bedrooms.sql)
+|2|9653|[Count the number of user events performed by MacBookPro users](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Count%20the%20number%20of%20user%20events%20performed%20by%20MacBookPro%20users.sql)
 
 
 ### List of Medium-Difficulty Questions
