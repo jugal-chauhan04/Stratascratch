@@ -11,7 +11,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |3|9663|[Find the most profitable company in the financial sector of the entire world along with its continent](https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20the%20most%20profitable%20company%20in%20the%20financial%20sector%20of%20the%20entire%20world%20along%20with%20its%20continent.sql)
 |4|9688|[Churro Activity Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Churro%20Activity%20Date.sql)
 |5|9891|[Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Details.sql)
-|6|9913|[Order Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Details.sql)
+|6|9913|[Order Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Order%20Details.sql)
 
 
 
