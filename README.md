@@ -12,6 +12,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |4|9688|[Churro Activity Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Churro%20Activity%20Date.sql)
 |5|9891|[Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Customer%20Details.sql)
 |6|9913|[Order Details](https://platform.stratascratch.com/coding/9913-order-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Order%20Details.sql)
+|6|9917|[Average Salaries](https://platform.stratascratch.com/coding/9913-order-details?code_type=1)|Easy|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Order%20Details.sql)
 
 
 
