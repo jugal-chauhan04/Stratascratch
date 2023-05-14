@@ -1,0 +1,5 @@
+select from_user, COUNT(day),
+ROW_NUMBER() OVER(ORDER BY COUNT(day) desc, from_user asc ) AS rank
+from google_gmail_emails
+group by from_user
+order by rank asc, from_user asc
