@@ -44,7 +44,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 |20|10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Reviews%20of%20Categories.sql)
 |21|10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%20Businesses%20With%20Most%20Reviews.sql)
 |22|10078|[Find matching hosts and guests in a way that they are both of the same gender and nationality](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?code_type=1)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20matching%20hosts%20and%20guests%20in%20a%20way%20that%20they%20are%20both%20of%20the%20same%20gender%20and%20nationality.sql)
-|23|10351|[Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=5)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Find%20matching%20hosts%20and%20guests%20in%20a%20way%20that%20they%20are%20both%20of%20the%20same%20gender%20and%20nationality.sql)
+|23|10351|[Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=5)|Medium|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/ActivityRank.sql)
 
 
 
