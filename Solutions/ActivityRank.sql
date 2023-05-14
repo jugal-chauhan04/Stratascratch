@@ -17,9 +17,14 @@ day: int
 ANSWER
 */
 
- from_user, COUNT(day),
-ROW_NUMBER() OVER(ORDER BY COUNT(day) desc, from_user asc ) AS rank
-from google_gmail_emails
-group by from_user
-order by rank asc, from_user asc
+SELECT 
+   from_user,
+   COUNT(day),
+   ROW_NUMBER() OVER(ORDER BY COUNT(day) desc, from_user asc ) AS rank
+FROM   
+   google_gmail_emails
+GROUP BY 
+   from_user
+ORDER BY 
+   rank asc, from_user asc
 
