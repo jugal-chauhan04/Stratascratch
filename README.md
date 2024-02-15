@@ -50,7 +50,7 @@ This repository tackles all the free available questions on [StrataScratch](http
 ### List of Hard-Difficulty Questions
 | Sr No. |  ID Number  | Title | Difficulty | Solution |
 |:---:|:-----:|:-----:|:----------:|:--------:|
-|1|10046|[Top 5 States With 5 Star Businesses]([https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1))|Hard|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/10354.sql)
+|1|10046|[Top 5 States With 5 Star Businesses]([https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1))|Hard|[Solution](https://github.com/jugal-chauhan04/Stratascratch/blob/main/Solutions/Top%205%20States%20With%205%20Star%20Businesses.sql)
 
 
 
